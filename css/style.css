@@ -1,0 +1,17 @@
+.image{
+  width: 50%;
+}
+#Titre{
+   text-align: center;
+   font-size: 70px;
+  text-decoration: underline;
+background-color: Tomato 
+}
+#section{ background-color: Tomato;
+font-family: Georgia;}
+#f1{
+  display: block;
+  margin: auto;  
+}
+
+#Titre{font-family: Georgia;}
